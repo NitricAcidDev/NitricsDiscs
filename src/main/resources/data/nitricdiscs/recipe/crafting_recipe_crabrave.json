@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#TS",
+        "ADA",
+        "ST#"
+    ],
+    "key": {
+        "#": "minecraft:lantern",
+        "T": "minecraft:turtle_scute",
+        "S": "minecraft:soul_lantern",
+        "A": "minecraft:amethyst_shard",
+        "D": "minecraft:diamond"
+    },
+    "result": {
+        "id": "nitricdiscs:music_disc_crabrave",
+        "count": 1
+    }
+}

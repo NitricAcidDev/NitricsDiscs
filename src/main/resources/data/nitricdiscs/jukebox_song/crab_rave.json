@@ -1,0 +1,8 @@
+{
+  "comparator_output": 15,
+  "description": {
+    "translate": "item.nitricdiscs.music_disc_crabrave.desc"
+  },
+  "length_in_seconds": 163.0,
+  "sound_event": "nitricdiscs:crab_rave"
+}

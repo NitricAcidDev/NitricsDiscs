@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#R#",
+        "ADA",
+        "#R#"
+    ],
+    "key": {
+        "#": "minecraft:redstone_lamp",
+        "R": "minecraft:redstone",
+        "A": "minecraft:amethyst_shard",
+        "D": "minecraft:diamond"
+    },
+    "result": {
+        "id": "nitricdiscs:music_disc_funkytown",
+        "count": 1
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "cAc",
+        "ADA",
+        "cAc"
+    ],
+    "key": {
+        "c": "minecraft:copper_ingot",
+        "A": "minecraft:amethyst_shard",
+        "D": "minecraft:diamond"
+    },
+    "result": {
+        "id": "nitricdiscs:music_disc_nevergonnagiveyouup",
+        "count": 1
+    }
+}

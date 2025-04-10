@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#C#",
+        "ADA",
+        "RCR"
+    ],
+    "key": {
+        "#": "minecraft:repeater",
+        "C": "minecraft:chain",
+        "A": "minecraft:amethyst_shard",
+        "D": "minecraft:diamond",
+        "R": "minecraft:redstone"
+    },
+    "result": {
+        "id": "nitricdiscs:music_disc_keygen",
+        "count": 1
+    }
+}

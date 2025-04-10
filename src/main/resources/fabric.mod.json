@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "nitricdiscs",
+	"version": "${version}",
+	"name": "Nitric's Music Discs",
+	"description": "My Music Disc Mod",
+	"authors": [
+		"Nitric Acid"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/nitricdiscs/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.nitric.nitricdiscs.NitricDiscs"
+		],
+		"fabric-datagen": [
+			"net.nitric.nitricdiscs.NitricDiscsDataGenerator"
+		],
+		"client": [
+			"net.nitric.nitricdiscs.NitricDiscsClient"
+		]
+	},
+	"mixins": [
+		"nitricdiscs.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.16.08",
+		"minecraft": "~1.21.3",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}

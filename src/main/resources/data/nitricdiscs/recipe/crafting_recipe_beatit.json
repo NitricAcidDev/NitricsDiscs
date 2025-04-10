@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#I#",
+        "ADA",
+        "JMB"
+    ],
+    "key": {
+        "#": "minecraft:golden_apple",
+        "I": "minecraft:iron_axe",
+        "A": "minecraft:amethyst_shard",
+        "D": "minecraft:diamond",
+        "J": "minecraft:dark_oak_log",
+        "M": "minecraft:mutton",
+        "B": "minecraft:birch_log"
+    },
+    "result": {
+        "id": "nitricdiscs:music_disc_beatit",
+        "count": 1
+    }
+}

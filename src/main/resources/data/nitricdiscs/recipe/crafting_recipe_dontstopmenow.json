@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "gRg",
+        "ADA",
+        "gQg"
+    ],
+    "key": {
+        "g": "minecraft:gold_ingot",
+        "R": "minecraft:red_banner",
+        "A": "minecraft:amethyst_shard",
+        "D": "minecraft:diamond",
+        "Q": "minecraft:quartz"
+    },
+    "result": {
+        "id": "nitricdiscs:music_disc_dontstopmenow",
+        "count": 1
+    }
+}

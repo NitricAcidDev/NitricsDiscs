@@ -1,0 +1,8 @@
+{
+  "comparator_output": 15,
+  "description": {
+    "translate": "item.nitricdiscs.music_disc_dontstopmenow.desc"
+  },
+  "length_in_seconds": 211.0,
+  "sound_event": "nitricdiscs:dont_stop_me_now"
+}

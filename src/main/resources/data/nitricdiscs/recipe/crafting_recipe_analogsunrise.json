@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#C#",
+        "ADA",
+        "#C#"
+    ],
+    "key": {
+        "#": "minecraft:redstone",
+        "C": "minecraft:comparator",
+        "A": "minecraft:amethyst_shard",
+        "D": "minecraft:diamond"
+    },
+    "result": {
+        "id": "nitricdiscs:music_disc_analogsunrise",
+        "count": 1
+    }
+}

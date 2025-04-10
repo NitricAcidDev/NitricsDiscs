@@ -1,0 +1,82 @@
+{
+  "never_gonna_give_you_up": {
+    "sounds": [
+      {
+        "name": "nitricdiscs:never_gonna_give_you_up",
+        "stream": true
+      }
+    ]
+  },
+  "funky_town": {
+    "sounds": [
+      {
+        "name": "nitricdiscs:funky_town",
+        "stream": true
+      }
+    ]
+  },
+  "crab_rave": {
+    "sounds": [
+      {
+        "name": "nitricdiscs:crab_rave",
+        "stream": true
+      }
+    ]
+  },
+  "bone_theme": {
+    "sounds": [
+      {
+        "name": "nitricdiscs:bone_theme",
+        "stream": true
+      }
+    ]
+  },
+  "dont_stop_me_now": {
+    "sounds": [
+      {
+        "name": "nitricdiscs:dont_stop_me_now",
+        "stream": true
+      }
+    ]
+  },
+  "another_one_bites_the_dust": {
+    "sounds": [
+      {
+        "name": "nitricdiscs:another_one_bites_the_dust",
+        "stream": true
+      }
+    ]
+  },
+  "lava_chicken": {
+    "sounds": [
+      {
+        "name": "nitricdiscs:lava_chicken",
+        "stream": true
+      }
+    ]
+  },
+  "key_gen": {
+    "sounds": [
+      {
+        "name": "nitricdiscs:key_gen",
+        "stream": true
+      }
+    ]
+  },
+  "beat_it": {
+    "sounds": [
+      {
+        "name": "nitricdiscs:beat_it",
+        "stream": true
+      }
+    ]
+  },
+  "analog_sunrise": {
+    "sounds": [
+      {
+        "name": "nitricdiscs:analog_sunrise",
+        "stream": true
+      }
+    ]
+  }
+}

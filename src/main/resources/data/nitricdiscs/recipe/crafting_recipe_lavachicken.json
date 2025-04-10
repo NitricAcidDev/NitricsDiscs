@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "ADA",
+        "CCC"
+    ],
+    "key": {
+        "#": "minecraft:lava_bucket",
+        "A": "minecraft:amethyst_shard",
+        "D": "minecraft:diamond",
+        "C": "minecraft:chicken"
+    },
+    "result": {
+        "id": "nitricdiscs:music_disc_lavachicken",
+        "count": 1
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#B#",
+        "ADA",
+        "RBR"
+    ],
+    "key": {
+        "#": "minecraft:repeater",
+        "B": "minecraft:bone",
+        "A": "minecraft:amethyst_shard",
+        "D": "minecraft:diamond",
+        "R": "minecraft:redstone"
+    },
+    "result": {
+        "id": "nitricdiscs:music_disc_bonetheme",
+        "count": 1
+    }
+}
